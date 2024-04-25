@@ -3,7 +3,7 @@
 The inaugural meeting of the Global Acoustic Interoperable Network (GAIN) was held in Brest, France on the 8th April 2024. The overarching aim of this working group is to engage the international community to develop a framework to enable sharing and dissemination of *processed* water column backscatter data at a global scale. Our vision is to achieve a global observational system for processed active acoustic water column data that can be sustained over multi-decadal periods. This will match the timeframes over which long term trends in biological oceanic processes might be observed. Key to this will be to follow [FAIR principles](https://en.wikipedia.org/wiki/FAIR_data), to have rigorous adherence to metadata, documentation of processing methods (e.g. [Haris et al. 2021](https://doi.org/10.1038/s41597-020-00785-8)) and to house the data products in a suitable format. Importantly, to facilitate uptake and impact, the product must be in a form that is readily understandable to researchers from other disciplines. This will allow easy comparison with other ocean observation and incorporation into models. 
 
 ![what_we_can_achieve_together](https://github.com/ices-eg/wk_WKGAIN/assets/38434631/c5626c70-d645-4aaf-b5c1-317cdf5f8d15)
-**Figure 1.- What we can achieve together.** Participants at the meeting in Brest (April 2024) drew acoustic trajectories from various research programmes that could be part of the first global database of GAIN.
+**Figure 1.- What we can achieve together.** Participants at the meeting in Brest (April 2024) drew acoustic trajectories from various research programmes that could be part of the first global database delivered by GAIN.
 
 GAIN extends an open invitation to welcome the WGFAST and broader scientific community to participate. This can include:  
 - Join the community to contribute to discussions in this Github space and participate in workshops
@@ -12,7 +12,6 @@ GAIN extends an open invitation to welcome the WGFAST and broader scientific com
 - Assist with linking to and/or guiding other disciples in the utilization and uptake of GAIN products
 - Contribute in the elaboration of documents (processing protocols, conventions, etc.)
 - Give us a hand in funding search and project submissions to maintain this working group.
-- Events organization.
   
 ### Objectives
 To achieve a global acoustic database which meets FAIR data principles we agreed the following objectives:
@@ -44,4 +43,4 @@ GAIN is simply the officialisation and internationalisation of multiple efforts 
 Thank you for your participation, 
 
 *Tim Ryan* (CSIRO, Australia)  
-*Alejandro* Ariza (Ifremer, France)
+*Alejandro Ariza* (Ifremer, France)
