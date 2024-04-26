@@ -6,7 +6,7 @@ The inaugural meeting of the Global Acoustic Interoperable Network (GAIN) was he
 **Figure 1.- What we can achieve together.** Participants at the meeting in Brest (April 2024) drew acoustic trajectories from various research programmes that could be part of the first global database delivered by GAIN.
 
 GAIN extends an open invitation to welcome the WGFAST and broader scientific community to participate. This can include:  
-- Join the community to contribute to discussions in this Github space and participate in workshops
+- Join the community to contribute to [discussions](https://github.com/ices-eg/wk_WKGAIN/issues) in this Github space and participate in workshops
 - Inform of publicly available data holdings
 - Make a product! Seek information about data processing methods to create interoperable outputs.
 - Assist with linking to and/or guiding other disciples in the utilization and uptake of GAIN products
